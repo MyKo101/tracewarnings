@@ -1,3 +1,4 @@
+#' @export
 warning_trace <- function(){
   tr <- rev(sys.calls())[-(1:5)]
   tr2 <- vector("pairlist",length=length(tr))

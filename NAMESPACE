@@ -2,3 +2,4 @@
 
 export(.tracebackW)
 export(tracebackW)
+export(warning_trace)
