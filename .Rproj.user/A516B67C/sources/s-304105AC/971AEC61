@@ -1,0 +1,27 @@
+{
+    "id": "971AEC61",
+    "path": "~/R/My Packages/tracewarnings/R/zzz.R",
+    "project_path": "R/zzz.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1624362969787.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "5,29",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1624363266,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1624363266175,
+    "read_only": false,
+    "read_only_alternatives": []
+}
